@@ -52,6 +52,7 @@ Develop the landing, register, and login pages. Be creative, and feel free to ge
 
 ## Submission Instructions
 - Fork the provided GitHub repository.
+- Create the website.
 - Send me a link to the GitHub repository at joechen@liftcard.app
   
 ## Evaluation Criteria
