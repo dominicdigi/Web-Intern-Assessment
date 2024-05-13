@@ -51,9 +51,9 @@ Develop the landing, register, and login pages. Be creative, and feel free to ge
 - Consider what essential information a user should have if they access the website intending to use the mobile app
 
 ## Submission Instructions
-- Clone the provided GitHub repository.
-- Commit your changes on a new branch named after your full name.
-- Make a pull request to the 'develop' branch with a detailed description of your contributions.
+- Fork the provided GitHub repository.
+- Send me a link to the GitHub repository at joechen@liftcard.app
+  
 ## Evaluation Criteria
 - Functionality: Does everything work as expected?
 - Code Quality: Is the code clean, organized, and well-documented?
