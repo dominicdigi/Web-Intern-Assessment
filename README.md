@@ -1,10 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Lift Card Software Engineer - Web Intern Assessment
+Welcome to the take-home assessment for the Software Engineer - Web Intern position at Lift Card. Congratulations on advancing to this stage of the interview process! We are excited to see your skills in action as you tackle this frontend development challenge.
 
-## Getting Started
+## Project Overview
+You will be developing the frontend for Lift Card's homepage along with the login and registration pages. This assessment will focus on your ability to work with Next.js and React, delivering clean code, a user-friendly interface, and a creative design.
 
-First, run the development server:
+### Tech Stack
+Frontend: Next.js (React) & TypeScript
+Backend: Express.js / Node.js
+Database: Firebase (and Firebase functions for backend operations)
 
-```bash
+### Getting Started
+This project is bootstrapped with create-next-app. Below are the steps to get your development environment running:
+
+# Clone the repository
+git clone <repository-url>
+cd <repository-directory>
+
+# Install dependencies
+npm install
+# or
+yarn
+# or
+pnpm
+# or
+bun
+
+# Run the development server
 npm run dev
 # or
 yarn dev
@@ -12,25 +33,34 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 with your browser to start developing. You can start editing the page by modifying pages/index.tsx. The page auto-updates as you edit the file.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Assessment Parts
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Part 1 - Routing
 
-## Learn More
+Use Next.js routing to enable navigation between the landing page, and the register and login pages.
 
-To learn more about Next.js, take a look at the following resources:
+### Part 2 - Frontend Development
+Develop the landing, register, and login pages. Be creative, and feel free to get inspiration from existing websites. Ensure the following elements are included on the landing page:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- "Lift Card" and the slogan "The Social Media Fitness App"
+- Buttons linking to the Google Play Store and App Store (links need not be functional)
+- A brief introduction or feature list of the app
+- Consider what essential information a user should have if they access the website intending to use the mobile app
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Submission Instructions
+- Clone the provided GitHub repository.
+- Commit your changes on a new branch named after your full name.
+- Make a pull request to the 'develop' branch with a detailed description of your contributions.
+## Evaluation Criteria
+- Functionality: Does everything work as expected?
+- Code Quality: Is the code clean, organized, and well-documented?
+- User Experience: Is the application easy to use and visually appealing?
+## Support
 
-## Deploy on Vercel
+For any questions or clarifications during the assessment, please feel free to reach out to joechen@liftcard.app.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+We look forward to seeing your innovative solutions and wish you the best of luck in your assessment!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
