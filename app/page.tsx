@@ -1,7 +1,7 @@
+import HomeComponent from "./components/home";
+
 export default function Home() {
   return (
-   <main>
-    Start here!
-   </main>
+    <HomeComponent />
   );
 }
